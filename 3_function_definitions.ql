@@ -2,5 +2,5 @@
 import cpp
 
 from Function f
-where f.getName()="strln"
+where f.getName()="strlen"
 select f,"strlen"
